@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block title %}{{ metadata.filename }}{% endblock %}
+{% block header %}Reading Mode{% endblock %}
+
+{% block content %}
+<div class="reader-container">
+    <div class="reader-header glass-panel">
+        <div class="doc-title">
+            <h2>{{ metadata.filename }}</h2>
+            <div class="doc-meta">
+                <span class="badge">{{ metadata.extension|upper }}</span>
+                <span><i class="fa-solid fa-calendar"></i> {{ metadata.upload_date }}</span>
+                <span><i class="fa-solid fa-file-word"></i> {{ content.split()|length }} words</span>
+            </div>
+        </div>
+        <div class="reader-actions">
+            <a href="{{ url_for('index') }}" class="btn-secondary">
+                <i class="fa-solid fa-arrow-left"></i> Back
+            </a>
+        </div>
+    </div>
+
+    <div class="reader-content glass-panel">
+        {% if metadata.extension == 'md' %}
+        <div class="markdown-body">
+            {{ content | markdown | safe }}
+        </div>
+        {% else %}
+        <div class="text-content">
+            {{ content | replace('\n', '<br>') | safe }}
+        </div>
+        {% endif %}
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,57 @@
+[
+    {
+        "policy_id": "P001",
+        "policy_holder": "John Doe",
+        "coverage_amount": 500000,
+        "start_date": "2015-06-15",
+        "premium_status": "Active",
+        "medical_history_flag": "clean",
+        "beneficiaries": [
+            "Jane Doe (Spouse)"
+        ]
+    },
+    {
+        "policy_id": "P002",
+        "policy_holder": "Michael Smith",
+        "coverage_amount": 2000000,
+        "start_date": "2023-09-01",
+        "premium_status": "Active",
+        "medical_history_flag": "undisclosed_conditions",
+        "beneficiaries": [
+            "Sarah Smith (Sister)"
+        ]
+    },
+    {
+        "policy_id": "P003",
+        "policy_holder": "Robert Brown",
+        "coverage_amount": 100000,
+        "start_date": "2010-01-20",
+        "premium_status": "Lapsed",
+        "medical_history_flag": "clean",
+        "beneficiaries": [
+            "Emily Brown (Daughter)"
+        ]
+    },
+    {
+        "policy_id": "P004",
+        "policy_holder": "Alice Johnson",
+        "coverage_amount": 750000,
+        "start_date": "2023-11-15",
+        "premium_status": "Active",
+        "medical_history_flag": "clean",
+        "beneficiaries": [
+            "Tom Johnson (Husband)"
+        ]
+    },
+    {
+        "policy_id": "P005",
+        "policy_holder": "David Wilson",
+        "coverage_amount": 5000000,
+        "start_date": "2020-05-10",
+        "premium_status": "Active",
+        "medical_history_flag": "clean",
+        "beneficiaries": [
+            "Trust Fund"
+        ]
+    }
+]

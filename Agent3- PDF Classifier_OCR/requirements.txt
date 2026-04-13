@@ -1,0 +1,10 @@
+flask
+google-generativeai
+python-dotenv
+pytesseract
+pdfplumber
+python-docx
+Pillow
+watchdog
+jinja2
+werkzeug

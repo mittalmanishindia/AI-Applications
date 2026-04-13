@@ -1,0 +1,64 @@
+[
+    {
+        "claim_id": "C1001",
+        "policy_id": "P001",
+        "claim_amount": 500000,
+        "date_of_death": "2023-10-20",
+        "cause_of_death": "Heart Attack",
+        "claimant": "Jane Doe",
+        "location": "Hospital",
+        "documents_provided": [
+            "Death Certificate",
+            "Medical Records"
+        ]
+    },
+    {
+        "claim_id": "C1002",
+        "policy_id": "P002",
+        "claim_amount": 2000000,
+        "date_of_death": "2023-10-25",
+        "cause_of_death": "Accidental Fall",
+        "claimant": "Sarah Smith",
+        "location": "Remote Hiking Trail",
+        "documents_provided": [
+            "Death Certificate"
+        ]
+    },
+    {
+        "claim_id": "C1003",
+        "policy_id": "P003",
+        "claim_amount": 100000,
+        "date_of_death": "2023-10-28",
+        "cause_of_death": "Natural Causes",
+        "claimant": "Emily Brown",
+        "location": "Home",
+        "documents_provided": [
+            "Death Certificate"
+        ]
+    },
+    {
+        "claim_id": "C1004",
+        "policy_id": "P004",
+        "claim_amount": 750000,
+        "date_of_death": "2023-12-01",
+        "cause_of_death": "Unknown",
+        "claimant": "Tom Johnson",
+        "location": "Overseas",
+        "documents_provided": [
+            "Foreign Death Certificate"
+        ]
+    },
+    {
+        "claim_id": "C1005",
+        "policy_id": "P005",
+        "claim_amount": 5000000,
+        "date_of_death": "2023-11-10",
+        "cause_of_death": "Car Accident",
+        "claimant": "Lawyer XYZ",
+        "location": "Highway",
+        "documents_provided": [
+            "Police Report",
+            "Death Certificate"
+        ]
+    }
+]

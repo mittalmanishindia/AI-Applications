@@ -1,0 +1,89 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document Classifier Dashboard</title>
+        <style>
+            body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f4f9; color: #333; margin: 0; padding: 20px; }
+            h1 { text-align: center; color: #2c3e50; }
+            .container { max-width: 1200px; margin: 0 auto; }
+            .category-section { margin-bottom: 40px; background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+            .category-title { border-bottom: 2px solid #3498db; padding-bottom: 10px; margin-bottom: 20px; color: #3498db; }
+            .document-card { border: 1px solid #eee; padding: 15px; margin-bottom: 15px; border-radius: 4px; transition: all 0.3s ease; }
+            .document-card:hover { box-shadow: 0 5px 15px rgba(0,0,0,0.1); transform: translateY(-2px); }
+            .doc-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; }
+            .doc-name { font-weight: bold; font-size: 1.1em; }
+            .doc-date { color: #888; font-size: 0.9em; }
+            .doc-preview { background: #f9f9f9; padding: 10px; border-radius: 4px; font-family: monospace; white-space: pre-wrap; max-height: 150px; overflow-y: auto; font-size: 0.9em; color: #555; }
+            .refresh-note { text-align: center; color: #777; margin-top: 40px; font-size: 0.9em; }
+        </style>
+        <meta http-equiv="refresh" content="10"> <!-- Auto-refresh every 10 seconds -->
+    </head>
+    <body>
+        <div class="container">
+            <h1>Document Classification Dashboard</h1>
+            <div id="content">
+    <div class="category-section"><h2 class="category-title">Form (3)</h2>
+            <div class="document-card">
+                <div class="doc-header">
+                    <span class="doc-name">Form1.pdf</span>
+                    <span class="doc-date">2025-11-26 17:50:22</span>
+                </div>
+                <div class="doc-preview">CANCER INSURANCE CLAIM FORM - FORM CA
+SECTION A - TO BE COMPLETED BY THE LIFE INSURED
+We wish you a speedy recove ry. Please return this form duly filled and signed with appropriate documents and follow below
+instructions to help us settle your Claim fas ter.
+IMPORTANT INFORMATI ON
+• Claims under multiple policies may be registered by filling a single form & providing all applicable Policy Numbers
+• Claim is payable subject to Policy being in force on the date of event and fulfillment of all ter...</div>
+            </div>
+            
+            <div class="document-card">
+                <div class="doc-header">
+                    <span class="doc-name">Form2.pdf</span>
+                    <span class="doc-date">2025-11-26 17:50:23</span>
+                </div>
+                <div class="doc-preview">INDIVIDUAL DEATH CLAIM FORM
+For Office Use Only
+Branch Name: Branch Code:
+Employee Name: Photograph of
+Claimant
+Employee Code: Sign:
+Date:
+Time: � On or before 3PM � After 3PM
+Section A*
+POLICY DET AILS
+Policy Number (s):
+Section B *
+DETAILS OF LIFE ASSURED:
+Name of Life Assured: � Mr. � Ms.
+Father's/Spouse Name:
+Date of Death: Time of Death:
+Place of Death: � Hospital � Clinic � Residence � Office � Other (Please specify):
+Family Doctor: Name Registration No.: Contact No.:
+Last treated/attended...</div>
+            </div>
+            
+            <div class="document-card">
+                <div class="doc-header">
+                    <span class="doc-name">Form3.pdf</span>
+                    <span class="doc-date">2025-11-26 17:50:25</span>
+                </div>
+                <div class="doc-preview">APPLICATION FORM FOR DISABILITY BENEFIT CLAIM - CLAIMANT’S STATEMENT - FORM - DA
+(PERSONAL ACCIDENT BENEFIT/WAIVER OF PREMIUM/PAYOR RIDER DISABILITY)
+Notes/Guidelines
+• This form is to be filled in by the person legally entitled for the policy money. All the answers must be clear &
+unambiguous
+• The benefit is payable subject to policy being in force on the date of event and also subject to fulfilment of all
+conditions/definitions as stated in the policy
+• Submission of this form should not be c...</div>
+            </div>
+            </div>
+            </div>
+            <p class="refresh-note">Auto-refreshing every 10 seconds...</p>
+        </div>
+    </body>
+    </html>
+    

@@ -1,0 +1,182 @@
+2025-11-26 17:50:20,895 - INFO - Processing Form1.pdf...
+2025-11-26 17:50:22,360 - INFO - Classified Form1.pdf as Form
+2025-11-26 17:50:22,373 - INFO - Finished processing Form1.pdf
+2025-11-26 17:50:22,373 - INFO - Processing Form2.pdf...
+2025-11-26 17:50:23,536 - INFO - Classified Form2.pdf as Form
+2025-11-26 17:50:23,545 - INFO - Finished processing Form2.pdf
+2025-11-26 17:50:23,548 - INFO - Processing Form3.pdf...
+2025-11-26 17:50:25,837 - INFO - Classified Form3.pdf as Form
+2025-11-26 17:50:25,849 - INFO - Finished processing Form3.pdf
+2025-11-26 17:50:25,908 - INFO - Webpage updated.
+2025-11-26 19:46:54,354 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-26 19:46:54,354 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-26 19:46:54,437 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-26 19:46:56,495 - WARNING -  * Debugger is active!
+2025-11-26 19:46:56,500 - INFO -  * Debugger PIN: 700-876-470
+2025-11-26 19:55:18,797 - INFO -  * Detected change in 'C:\\Users\\mmittal24\\OneDrive - DXC Production\\Desktop\\Personal\\Antigravity\\Agent3- PDF Classifier_OCR\\app.py', reloading
+2025-11-26 19:55:18,798 - INFO -  * Detected change in 'C:\\Users\\mmittal24\\OneDrive - DXC Production\\Desktop\\Personal\\Antigravity\\Agent3- PDF Classifier_OCR\\app.py', reloading
+2025-11-26 19:55:19,507 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-26 19:55:24,444 - WARNING -  * Debugger is active!
+2025-11-26 19:55:24,455 - INFO -  * Debugger PIN: 700-876-470
+2025-11-26 19:57:20,245 - INFO -  * Detected change in 'C:\\Users\\mmittal24\\OneDrive - DXC Production\\Desktop\\Personal\\Antigravity\\Agent3- PDF Classifier_OCR\\app.py', reloading
+2025-11-26 19:57:20,614 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-26 19:57:25,398 - WARNING -  * Debugger is active!
+2025-11-26 19:57:25,411 - INFO -  * Debugger PIN: 700-876-470
+2025-11-26 19:57:48,867 - INFO -  * Detected change in 'C:\\Users\\mmittal24\\OneDrive - DXC Production\\Desktop\\Personal\\Antigravity\\Agent3- PDF Classifier_OCR\\app.py', reloading
+2025-11-26 19:57:49,304 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-26 19:57:51,854 - WARNING -  * Debugger is active!
+2025-11-26 19:57:51,861 - INFO -  * Debugger PIN: 700-876-470
+2025-11-26 20:09:07,673 - INFO -  * Detected change in 'C:\\Python313\\Lib\\os.py', reloading
+2025-11-26 20:09:08,010 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-26 20:09:20,323 - WARNING -  * Debugger is active!
+2025-11-26 20:09:20,330 - INFO -  * Debugger PIN: 700-876-470
+2025-11-27 07:13:43,303 - INFO -  * Detected change in 'C:\\Users\\mmittal24\\OneDrive - DXC Production\\Desktop\\Personal\\Antigravity\\Agent3- PDF Classifier_OCR\\app.py', reloading
+2025-11-27 07:13:50,747 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-27 07:14:25,152 - WARNING -  * Debugger is active!
+2025-11-27 07:14:25,400 - INFO -  * Debugger PIN: 700-876-470
+2025-11-27 13:16:14,202 - INFO -  * Detected change in 'C:\\Users\\mmittal24\\OneDrive - DXC Production\\Desktop\\Personal\\Antigravity\\Agent3- PDF Classifier_OCR\\app.py', reloading
+2025-11-27 13:16:15,068 - INFO -  * Detected change in 'C:\\Users\\mmittal24\\OneDrive - DXC Production\\Desktop\\Personal\\Antigravity\\Agent3- PDF Classifier_OCR\\app.py', reloading
+2025-11-27 13:16:15,070 - INFO -  * Detected change in 'C:\\Users\\mmittal24\\OneDrive - DXC Production\\Desktop\\Personal\\Antigravity\\Agent3- PDF Classifier_OCR\\app.py', reloading
+2025-11-27 13:16:15,724 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-27 13:16:30,851 - WARNING -  * Debugger is active!
+2025-11-27 13:16:30,859 - INFO -  * Debugger PIN: 700-876-470
+2025-11-27 13:16:41,118 - INFO -  * Detected change in 'C:\\Users\\mmittal24\\OneDrive - DXC Production\\Desktop\\Personal\\Antigravity\\Agent3- PDF Classifier_OCR\\app.py', reloading
+2025-11-27 13:16:42,463 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-27 13:16:46,774 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-27 13:16:46,775 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-27 13:16:46,827 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-27 13:16:52,448 - WARNING -  * Debugger is active!
+2025-11-27 13:16:52,458 - INFO -  * Debugger PIN: 700-876-470
+2025-11-27 13:16:53,872 - WARNING -  * Debugger is active!
+2025-11-27 13:16:53,880 - INFO -  * Debugger PIN: 700-876-470
+2025-11-27 19:09:35,504 - INFO -  * Detected change in 'C:\\Users\\mmittal24\\OneDrive - DXC Production\\Desktop\\Personal\\Antigravity\\Agent3- PDF Classifier_OCR\\app.py', reloading
+2025-11-27 19:09:35,612 - INFO -  * Detected change in 'C:\\Users\\mmittal24\\OneDrive - DXC Production\\Desktop\\Personal\\Antigravity\\Agent3- PDF Classifier_OCR\\app.py', reloading
+2025-11-27 19:30:39,642 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-27 19:30:39,642 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-27 19:30:39,668 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-27 19:30:41,762 - WARNING -  * Debugger is active!
+2025-11-27 19:30:41,766 - INFO -  * Debugger PIN: 700-876-470
+2025-11-27 19:35:00,518 - INFO - Processing Form1.pdf...
+2025-11-27 19:35:04,746 - INFO - Classified Form1.pdf as Form
+2025-11-27 19:35:04,789 - INFO - Finished processing Form1.pdf
+2025-11-27 19:35:04,790 - INFO - Processing Form2.pdf...
+2025-11-27 19:35:14,822 - INFO - Classified Form2.pdf as Form
+2025-11-27 19:35:15,013 - INFO -  * Detected change in 'C:\\Python313\\Lib\\shutil.py', reloading
+2025-11-27 19:35:15,929 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-27 19:35:36,899 - WARNING -  * Debugger is active!
+2025-11-27 19:35:36,919 - INFO -  * Debugger PIN: 700-876-470
+2025-11-28 13:55:18,062 - INFO -  * Detected change in 'C:\\Users\\mmittal24\\OneDrive - DXC Production\\Desktop\\Personal\\Antigravity\\Agent3- PDF Classifier_OCR\\main.py', reloading
+2025-11-28 13:55:18,630 - INFO -  * Detected change in 'C:\\Users\\mmittal24\\OneDrive - DXC Production\\Desktop\\Personal\\Antigravity\\Agent3- PDF Classifier_OCR\\app.py', reloading
+2025-11-28 13:55:21,916 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-28 13:55:57,211 - WARNING -  * Debugger is active!
+2025-11-28 13:55:57,225 - INFO -  * Debugger PIN: 700-876-470
+2025-11-28 14:20:50,618 - INFO -  * Detected change in 'C:\\Python313\\Doc\\html\\_downloads\\6dc1f3f4f0e6ca13cb42ddf4d6cbc8af\\tzinfo_examples.py', reloading
+2025-11-28 14:20:53,395 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-28 14:21:39,776 - WARNING -  * Debugger is active!
+2025-11-28 14:21:39,785 - INFO -  * Debugger PIN: 700-876-470
+2025-11-28 14:21:43,143 - INFO -  * Detected change in 'C:\\Python313\\Lib\\importlib\\readers.py', reloading
+2025-11-28 14:21:43,173 - INFO -  * Detected change in 'C:\\Python313\\Lib\\importlib\\simple.py', reloading
+2025-11-28 14:21:43,187 - INFO -  * Detected change in 'C:\\Python313\\Lib\\importlib\\util.py', reloading
+2025-11-28 14:21:43,208 - INFO -  * Detected change in 'C:\\Python313\\Lib\\importlib\\_abc.py', reloading
+2025-11-28 14:21:43,276 - INFO -  * Detected change in 'C:\\Python313\\Lib\\importlib\\machinery.py', reloading
+2025-11-28 14:21:43,292 - INFO -  * Detected change in 'C:\\Python313\\Lib\\importlib\\_bootstrap_external.py', reloading
+2025-11-28 14:21:43,307 - INFO -  * Detected change in 'C:\\Python313\\Lib\\importlib\\abc.py', reloading
+2025-11-28 14:21:43,321 - INFO -  * Detected change in 'C:\\Python313\\Lib\\importlib\\__init__.py', reloading
+2025-11-28 14:21:43,321 - INFO -  * Detected change in 'C:\\Python313\\Lib\\importlib\\metadata\\diagnose.py', reloading
+2025-11-28 14:21:43,344 - INFO -  * Detected change in 'C:\\Python313\\Lib\\importlib\\metadata\\_collections.py', reloading
+2025-11-28 14:21:43,345 - INFO -  * Detected change in 'C:\\Python313\\Lib\\importlib\\metadata\\_adapters.py', reloading
+2025-11-28 14:21:43,345 - INFO -  * Detected change in 'C:\\Python313\\Lib\\importlib\\metadata\\_functools.py', reloading
+2025-11-28 14:21:43,354 - INFO -  * Detected change in 'C:\\Python313\\Lib\\importlib\\metadata\\_itertools.py', reloading
+2025-11-28 14:21:43,420 - INFO -  * Detected change in 'C:\\Python313\\Lib\\importlib\\metadata\\_meta.py', reloading
+2025-11-28 14:21:43,420 - INFO -  * Detected change in 'C:\\Python313\\Lib\\importlib\\metadata\\_text.py', reloading
+2025-11-28 14:21:43,599 - INFO -  * Detected change in 'C:\\Python313\\Lib\\importlib\\_bootstrap.py', reloading
+2025-11-28 14:21:43,782 - INFO -  * Detected change in 'C:\\Python313\\Lib\\importlib\\metadata\\__init__.py', reloading
+2025-11-28 14:21:44,476 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-28 14:22:09,720 - WARNING -  * Debugger is active!
+2025-11-28 14:22:09,725 - INFO -  * Debugger PIN: 700-876-470
+2025-11-28 14:22:09,830 - INFO -  * Detected change in 'C:\\Python313\\Lib\\site-packages\\pip\\_vendor\\tomli_w\\_writer.py', reloading
+2025-11-28 14:22:09,837 - INFO -  * Detected change in 'C:\\Python313\\Lib\\site-packages\\pip\\_vendor\\tomli_w\\__init__.py', reloading
+2025-11-28 14:22:09,941 - INFO -  * Detected change in 'C:\\Python313\\Lib\\site-packages\\pip\\_vendor\\truststore\\_macos.py', reloading
+2025-11-28 14:22:09,975 - INFO -  * Detected change in 'C:\\Python313\\Lib\\site-packages\\pip\\_vendor\\truststore\\_ssl_constants.py', reloading
+2025-11-28 14:22:09,978 - INFO -  * Detected change in 'C:\\Python313\\Lib\\site-packages\\pip\\_vendor\\truststore\\_openssl.py', reloading
+2025-11-28 14:22:10,021 - INFO -  * Detected change in 'C:\\Python313\\Lib\\site-packages\\pip\\_vendor\\truststore\\_windows.py', reloading
+2025-11-28 14:22:10,024 - INFO -  * Detected change in 'C:\\Python313\\Lib\\site-packages\\pip\\_vendor\\truststore\\__init__.py', reloading
+2025-11-28 14:22:10,272 - INFO -  * Detected change in 'C:\\Python313\\Lib\\site-packages\\pip\\_vendor\\truststore\\_api.py', reloading
+2025-11-28 14:22:10,499 - INFO -  * Detected change in 'C:\\Python313\\Lib\\site-packages\\pip\\_vendor\\urllib3\\connectionpool.py', reloading
+2025-11-28 14:22:10,500 - INFO -  * Detected change in 'C:\\Python313\\Lib\\site-packages\\pip\\_vendor\\urllib3\\fields.py', reloading
+2025-11-28 14:22:10,607 - INFO -  * Detected change in 'C:\\Python313\\Lib\\site-packages\\pip\\_vendor\\urllib3\\filepost.py', reloading
+2025-11-28 14:22:10,607 - INFO -  * Detected change in 'C:\\Python313\\Lib\\site-packages\\pip\\_vendor\\urllib3\\request.py', reloading
+2025-11-28 14:22:10,608 - INFO -  * Detected change in 'C:\\Python313\\Lib\\site-packages\\pip\\_vendor\\urllib3\\poolmanager.py', reloading
+2025-11-28 14:22:10,608 - INFO -  * Detected change in 'C:\\Python313\\Lib\\site-packages\\pip\\_vendor\\urllib3\\_collections.py', reloading
+2025-11-28 14:22:10,682 - INFO -  * Detected change in 'C:\\Python313\\Lib\\site-packages\\pip\\_vendor\\urllib3\\connection.py', reloading
+2025-11-28 14:22:10,725 - INFO -  * Detected change in 'C:\\Python313\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib\\appengine.py', reloading
+2025-11-28 14:22:10,759 - INFO -  * Detected change in 'C:\\Python313\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib\\ntlmpool.py', reloading
+2025-11-28 14:22:10,808 - INFO -  * Detected change in 'C:\\Python313\\Lib\\site-packages\\pip\\_vendor\\urllib3\\exceptions.py', reloading
+2025-11-28 14:22:10,868 - INFO -  * Detected change in 'C:\\Python313\\Lib\\site-packages\\pip\\_vendor\\urllib3\\response.py', reloading
+2025-11-28 14:22:11,543 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-28 14:22:45,392 - WARNING -  * Debugger is active!
+2025-11-28 14:22:45,410 - INFO -  * Debugger PIN: 700-876-470
+2025-11-28 14:22:46,231 - INFO -  * Detected change in 'C:\\Python313\\Lib\\test\\test_dataclasses\\dataclass_module_1.py', reloading
+2025-11-28 14:22:46,249 - INFO -  * Detected change in 'C:\\Python313\\Lib\\test\\test_dataclasses\\dataclass_module_1_str.py', reloading
+2025-11-28 14:22:46,266 - INFO -  * Detected change in 'C:\\Python313\\Lib\\test\\test_dataclasses\\dataclass_module_2.py', reloading
+2025-11-28 14:22:46,270 - INFO -  * Detected change in 'C:\\Python313\\Lib\\test\\test_dataclasses\\dataclass_module_2_str.py', reloading
+2025-11-28 14:22:46,284 - INFO -  * Detected change in 'C:\\Python313\\Lib\\test\\test_dataclasses\\dataclass_textanno.py', reloading
+2025-11-28 14:22:46,440 - INFO -  * Detected change in 'C:\\Python313\\Lib\\test\\test_doctest\\decorator_mod.py', reloading
+2025-11-28 14:22:46,454 - INFO -  * Detected change in 'C:\\Python313\\Lib\\test\\test_doctest\\doctest_aliases.py', reloading
+2025-11-28 14:22:46,476 - INFO -  * Detected change in 'C:\\Python313\\Lib\\test\\test_doctest\\sample_doctest.py', reloading
+2025-11-28 14:22:46,490 - INFO -  * Detected change in 'C:\\Python313\\Lib\\test\\test_doctest\\sample_doctest_errors.py', reloading
+2025-11-28 14:22:46,512 - INFO -  * Detected change in 'C:\\Python313\\Lib\\test\\test_doctest\\sample_doctest_no_doctests.py', reloading
+2025-11-28 14:22:47,022 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-28 14:22:56,092 - WARNING -  * Debugger is active!
+2025-11-28 14:22:56,104 - INFO -  * Debugger PIN: 700-876-470
+2025-11-28 14:22:56,535 - INFO -  * Detected change in 'C:\\Python313\\Lib\\test\\test_importlib\\namespace_pkgs\\nested_portion1.zip', reloading
+2025-11-28 14:22:56,535 - INFO -  * Detected change in 'C:\\Python313\\Lib\\test\\test_importlib\\namespace_pkgs\\top_level_portion1.zip', reloading
+2025-11-28 14:22:56,549 - INFO -  * Detected change in 'C:\\Python313\\Lib\\test\\test_importlib\\namespace_pkgs\\missing_directory.zip', reloading
+2025-11-28 14:22:56,550 - INFO -  * Detected change in 'C:\\Python313\\Lib\\test\\test_importlib\\namespace_pkgs\\both_portions\\foo\\two.py', reloading
+2025-11-28 14:22:56,671 - INFO -  * Detected change in 'C:\\Python313\\Lib\\test\\test_importlib\\namespace_pkgs\\module_and_namespace_package\\a_test.py', reloading
+2025-11-28 14:22:57,095 - INFO -  * Detected change in 'C:\\Python313\\Lib\\test\\test_importlib\\namespace_pkgs\\not_a_namespace_pkg\\foo\\one.py', reloading
+2025-11-28 14:22:57,271 - INFO -  * Detected change in 'C:\\Python313\\Lib\\test\\test_importlib\\namespace_pkgs\\both_portions\\foo\\one.py', reloading
+2025-11-28 14:22:57,337 - INFO -  * Detected change in 'C:\\Python313\\Lib\\test\\test_importlib\\namespace_pkgs\\portion1\\foo\\one.py', reloading
+2025-11-28 14:22:57,449 - INFO -  * Detected change in 'C:\\Python313\\Lib\\test\\test_importlib\\namespace_pkgs\\portion2\\foo\\two.py', reloading
+2025-11-28 14:22:57,486 - INFO -  * Detected change in 'C:\\Python313\\Lib\\test\\test_importlib\\namespace_pkgs\\project1\\parent\\child\\one.py', reloading
+2025-11-28 14:22:59,030 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-28 14:23:13,116 - WARNING -  * Debugger is active!
+2025-11-28 14:23:13,131 - INFO -  * Debugger PIN: 700-876-470
+2025-11-28 14:23:30,282 - INFO -  * Detected change in 'C:\\Python313\\Lib\\tkinter\\commondialog.py', reloading
+2025-11-28 14:23:30,294 - INFO -  * Detected change in 'C:\\Python313\\Lib\\tkinter\\constants.py', reloading
+2025-11-28 14:23:30,308 - INFO -  * Detected change in 'C:\\Python313\\Lib\\tkinter\\dialog.py', reloading
+2025-11-28 14:23:30,328 - INFO -  * Detected change in 'C:\\Python313\\Lib\\tkinter\\dnd.py', reloading
+2025-11-28 14:23:30,505 - INFO -  * Detected change in 'C:\\Python313\\Lib\\tkinter\\font.py', reloading
+2025-11-28 14:23:30,525 - INFO -  * Detected change in 'C:\\Python313\\Lib\\tkinter\\messagebox.py', reloading
+2025-11-28 14:23:30,527 - INFO -  * Detected change in 'C:\\Python313\\Lib\\tkinter\\scrolledtext.py', reloading
+2025-11-28 14:23:30,539 - INFO -  * Detected change in 'C:\\Python313\\Lib\\tkinter\\simpledialog.py', reloading
+2025-11-28 14:23:30,542 - INFO -  * Detected change in 'C:\\Python313\\Lib\\tkinter\\ttk.py', reloading
+2025-11-28 14:23:30,548 - INFO -  * Detected change in 'C:\\Python313\\Lib\\tkinter\\__main__.py', reloading
+2025-11-28 14:23:30,570 - INFO -  * Detected change in 'C:\\Python313\\Lib\\tkinter\\__init__.py', reloading
+2025-11-28 14:23:30,638 - INFO -  * Detected change in 'C:\\Python313\\Lib\\tkinter\\colorchooser.py', reloading
+2025-11-28 14:23:31,148 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-28 14:23:44,648 - WARNING -  * Debugger is active!
+2025-11-28 14:23:44,655 - INFO -  * Debugger PIN: 700-876-470
+2025-11-28 15:13:45,099 - INFO -  * Detected change in 'C:\\Users\\mmittal24\\OneDrive - DXC Production\\Desktop\\Personal\\Antigravity\\Agent3- PDF Classifier_OCR\\main.py', reloading
+2025-11-28 15:13:45,410 - INFO -  * Detected change in 'C:\\Users\\mmittal24\\OneDrive - DXC Production\\Desktop\\Personal\\Antigravity\\Agent3- PDF Classifier_OCR\\app.py', reloading
+2025-11-28 15:13:46,458 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-28 15:14:03,759 - WARNING -  * Debugger is active!
+2025-11-28 15:14:03,769 - INFO -  * Debugger PIN: 700-876-470
+2025-11-28 15:23:38,925 - INFO -  * Detected change in 'C:\\Users\\mmittal24\\AppData\\Roaming\\Python\\Python313\\site-packages\\flask\\__init__.py', reloading
+2025-11-28 15:23:39,109 - INFO -  * Detected change in 'C:\\Users\\mmittal24\\AppData\\Roaming\\Python\\Python313\\site-packages\\flask\\app.py', reloading
+2025-11-28 15:23:39,268 - INFO -  * Detected change in 'C:\\Users\\mmittal24\\AppData\\Roaming\\Python\\Python313\\site-packages\\flask\\templating.py', reloading
+2025-11-28 15:23:39,382 - INFO -  * Detected change in 'C:\\Users\\mmittal24\\AppData\\Roaming\\Python\\Python313\\site-packages\\flask\\globals.py', reloading
+2025-11-28 15:23:39,497 - INFO -  * Detected change in 'C:\\Users\\mmittal24\\AppData\\Roaming\\Python\\Python313\\site-packages\\flask\\wrappers.py', reloading
+2025-11-28 15:23:40,092 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-28 15:23:51,241 - WARNING -  * Debugger is active!
+2025-11-28 15:23:51,248 - INFO -  * Debugger PIN: 700-876-470
+2025-11-28 15:24:07,557 - INFO -  * Detected change in 'C:\\Users\\mmittal24\\AppData\\Roaming\\Python\\Python313\\site-packages\\flask\\helpers.py', reloading
+2025-11-28 15:24:07,676 - INFO -  * Detected change in 'C:\\Users\\mmittal24\\AppData\\Roaming\\Python\\Python313\\site-packages\\flask\\sansio\\app.py', reloading
+2025-11-28 15:24:07,797 - INFO -  * Detected change in 'C:\\Users\\mmittal24\\AppData\\Roaming\\Python\\Python313\\site-packages\\flask\\sansio\\scaffold.py', reloading
+2025-11-28 15:24:07,958 - INFO -  * Detected change in 'C:\\Python313\\Lib\\os.py', reloading
+2025-11-28 15:24:08,895 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-28 15:24:27,529 - WARNING -  * Debugger is active!
+2025-11-28 15:24:27,546 - INFO -  * Debugger PIN: 700-876-470

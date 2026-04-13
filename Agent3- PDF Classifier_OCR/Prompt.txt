@@ -1,0 +1,67 @@
+Build an autonomous AI agent with the following capabilities:
+
+Document Classification
+
+Accept a batch of input documents (PDF, Word, TXT, or images with OCR).
+
+Automatically classify each document into appropriate categories/classes using semantic understanding.
+
+Create a dedicated folder for each class inside a defined project directory.
+
+Copy or move each document into its respective class folder.
+
+Content Extraction
+
+Read each document using the correct parser based on file type.
+
+Extract full text content, including OCR for scanned/PDF images.
+
+Store extracted text in a structured format (e.g., JSON or database).
+
+Webpage Generation
+
+Build a simple web page (or auto-generate an HTML file) that displays:
+
+The document name.
+
+The extracted content below the name.
+
+Group documents visually by their classified category.
+
+Ensure the webpage auto-refreshes or updates when new documents are added.
+
+Project Structure Automation
+
+Automatically generate:
+
+/project_root/classes/<class_name>/ folders
+
+/project_root/extracted/ folder
+
+/project_root/web/ for the webpage
+
+A README.md describing the system
+
+Maintain logs of classification and extraction activities.
+
+Operational Behavior
+
+Run fully autonomously from ingestion → classification → extraction → webpage update.
+
+If ambiguous documents appear, classify them under an “Uncertain” class and continue.
+
+Ensure all processes are idempotent and repeatable.
+
+Final Output Requirements
+
+Deliver:
+
+Full project folder structure
+
+Generated webpage (HTML)
+
+Extracted text files or JSON files
+
+Classification log
+
+README.md file (auto-created)

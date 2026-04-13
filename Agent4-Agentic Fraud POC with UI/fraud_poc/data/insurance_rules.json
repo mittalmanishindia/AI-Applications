@@ -1,0 +1,37 @@
+[
+    {
+        "rule_id": "R001",
+        "rule_name": "Contestable Period",
+        "condition": "days_since_inception < 730",
+        "risk_score": 40,
+        "description": "Claim made within the 2-year contestable period"
+    },
+    {
+        "rule_id": "R002",
+        "rule_name": "High Value Claim",
+        "condition": "claim_amount > 1000000",
+        "risk_score": 30,
+        "description": "Claim amount exceeds $1,000,000 threshold"
+    },
+    {
+        "rule_id": "R003",
+        "rule_name": "Suspicious Cause",
+        "condition": "cause_of_death in ['Unknown', 'Unverified Accident', 'Drowning']",
+        "risk_score": 50,
+        "description": "Cause of death is vague or high-risk for fraud"
+    },
+    {
+        "rule_id": "R004",
+        "rule_name": "Foreign Death",
+        "condition": "location == 'Overseas'",
+        "risk_score": 60,
+        "description": "Death occurred overseas, harder to verify"
+    },
+    {
+        "rule_id": "R005",
+        "rule_name": "Lapsed Policy",
+        "condition": "premium_status == 'Lapsed'",
+        "risk_score": 100,
+        "description": "Claim on a lapsed policy"
+    }
+]

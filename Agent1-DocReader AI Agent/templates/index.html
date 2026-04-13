@@ -1,0 +1,78 @@
+{% extends "base.html" %}
+
+{% block title %}Dashboard{% endblock %}
+{% block header %}My Documents{% endblock %}
+
+{% block content %}
+<div class="dashboard-grid">
+    <!-- Upload Section -->
+    <section class="upload-card glass-panel">
+        <h2><i class="fa-solid fa-cloud-arrow-up"></i> Upload Document</h2>
+        <p>Supported formats: PDF, DOCX, TXT, MD (Max 10MB)</p>
+
+        <form action="{{ url_for('upload_file') }}" method="post" enctype="multipart/form-data" class="upload-form">
+            <div class="file-input-wrapper">
+                <input type="file" name="file" id="file" class="file-input" accept=".pdf,.docx,.txt,.md" required>
+                <label for="file" class="file-label">
+                    <i class="fa-solid fa-file-circle-plus"></i>
+                    <span>Choose a file...</span>
+                </label>
+            </div>
+            <button type="submit" class="btn-primary">Upload & Process</button>
+        </form>
+    </section>
+
+    <!-- Documents List -->
+    <section class="documents-list">
+        <h3>Recent Uploads</h3>
+        {% if files %}
+        <div class="files-grid">
+            {% for file in files %}
+            <div class="file-card glass-panel">
+                <div class="file-icon">
+                    {% if file.extension == 'pdf' %}
+                    <i class="fa-solid fa-file-pdf text-red"></i>
+                    {% elif file.extension == 'docx' %}
+                    <i class="fa-solid fa-file-word text-blue"></i>
+                    {% elif file.extension == 'md' %}
+                    <i class="fa-brands fa-markdown text-purple"></i>
+                    {% else %}
+                    <i class="fa-solid fa-file-lines text-gray"></i>
+                    {% endif %}
+                </div>
+                <div class="file-info">
+                    <h4>{{ file.filename }}</h4>
+                    <span class="meta">{{ file.upload_date }}</span>
+                    <span class="meta">{{ (file.size / 1024)|round(1) }} KB</span>
+                </div>
+                <div class="file-actions">
+                    <a href="{{ url_for('view_document', filename=file.filename) }}" class="btn-icon" title="View">
+                        <i class="fa-solid fa-eye"></i>
+                    </a>
+                    <form action="{{ url_for('delete_file', filename=file.filename) }}" method="post"
+                        onsubmit="return confirm('Are you sure?');" style="display:inline;">
+                        <button type="submit" class="btn-icon btn-delete" title="Delete">
+                            <i class="fa-solid fa-trash"></i>
+                        </button>
+                    </form>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% else %}
+        <div class="empty-state glass-panel">
+            <i class="fa-regular fa-folder-open"></i>
+            <p>No documents uploaded yet.</p>
+        </div>
+        {% endif %}
+    </section>
+</div>
+
+<script>
+    // Simple script to update label when file is chosen
+    document.getElementById('file').addEventListener('change', function (e) {
+        var fileName = e.target.files[0].name;
+        document.querySelector('.file-label span').textContent = fileName;
+    });
+</script>
+{% endblock %}

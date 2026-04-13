@@ -1,0 +1,55 @@
+[
+    {
+        "user_id": "U001",
+        "name": "Alice Smith",
+        "avg_txn_amount": 150,
+        "known_devices": [
+            "D101",
+            "D102"
+        ],
+        "history_flag": "clean",
+        "email": "alice@example.com"
+    },
+    {
+        "user_id": "U002",
+        "name": "Bob Jones",
+        "avg_txn_amount": 1200,
+        "known_devices": [
+            "D201"
+        ],
+        "history_flag": "suspicious",
+        "email": "bob@example.com"
+    },
+    {
+        "user_id": "U003",
+        "name": "Charlie Brown",
+        "avg_txn_amount": 50,
+        "known_devices": [
+            "D301",
+            "D302",
+            "D303"
+        ],
+        "history_flag": "clean",
+        "email": "charlie@example.com"
+    },
+    {
+        "user_id": "U004",
+        "name": "Diana Prince",
+        "avg_txn_amount": 5000,
+        "known_devices": [
+            "D401"
+        ],
+        "history_flag": "clean",
+        "email": "diana@example.com"
+    },
+    {
+        "user_id": "U005",
+        "name": "Evan Wright",
+        "avg_txn_amount": 300,
+        "known_devices": [
+            "D501"
+        ],
+        "history_flag": "clean",
+        "email": "evan@example.com"
+    }
+]

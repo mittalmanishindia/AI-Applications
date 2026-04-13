@@ -1,0 +1,30 @@
+[
+  {
+    "rule_id": "R001",
+    "rule_name": "High Value Transaction",
+    "condition": "amount > 10000",
+    "risk_score": 30,
+    "description": "Transaction amount exceeds $10,000"
+  },
+  {
+    "rule_id": "R002",
+    "rule_name": "Velocity Check",
+    "condition": "txn_count_last_hour > 3",
+    "risk_score": 40,
+    "description": "More than 3 transactions in the last hour"
+  },
+  {
+    "rule_id": "R003",
+    "rule_name": "New Device",
+    "condition": "device_id not in user_known_devices",
+    "risk_score": 25,
+    "description": "Transaction from a previously unknown device"
+  },
+  {
+    "rule_id": "R004",
+    "rule_name": "Suspicious Merchant",
+    "condition": "merchant in ['CryptoExchange', 'OffshoreBetting']",
+    "risk_score": 50,
+    "description": "Transaction with a high-risk merchant"
+  }
+]
