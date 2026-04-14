@@ -1,3 +1,4 @@
+
 # DocReader AI Agent
 
 A Python-based AI agent that reads documents (PDF, DOCX, TXT, MD) and publishes their content to a beautiful, responsive web page.
