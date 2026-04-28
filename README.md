@@ -2,6 +2,7 @@
 
 **A growing collection of AI-enabled web applications and demonstrations.
 **
+
 This repository contains a collection of web applications and demos, including AI-enhanced tools. These are useful solutions, but they are not all full autonomous AI agents.
 
 ## What this repo contains
