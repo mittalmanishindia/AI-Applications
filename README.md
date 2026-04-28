@@ -22,9 +22,4 @@ This repository contains a collection of web applications and demos, including A
 - A starting point for building more advanced AI projects
 
 
-If you want a public repository dedicated to true AI agents, create a separate repo for the next step and keep this repo as `AI Solutions` or `AI Applications`.
 
-## Publishing advice
-
-- Rename the remote repo on GitHub if you want a more accurate public name, such as `ai-solutions` or `ai-applications`.
-- If you keep this repo public, use the description: "AI-enabled applications and demos; not all are autonomous agents."
