@@ -21,12 +21,6 @@ This repository contains a collection of web applications and demos, including A
 - A set of demos for document processing, scheduling, classification, fraud assessment, summarization, and web UI
 - A starting point for building more advanced AI projects
 
-## What this repo is not
-
-- It is not a curated library of fully agentic AI systems
-- It does not yet contain autonomous, multi-step LLM agents that plan, execute, and self-correct
-
-## Recommended next step
 
 If you want a public repository dedicated to true AI agents, create a separate repo for the next step and keep this repo as `AI Solutions` or `AI Applications`.
 
