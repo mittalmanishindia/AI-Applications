@@ -21,5 +21,10 @@ This repository contains a collection of web applications and demos, including A
 - A set of demos for document processing, scheduling, classification, fraud assessment, summarization, and web UI
 - A starting point for building more advanced AI projects
 
+## Author
+
+- Built by Manish Mittal, Senior Leader in Intelligent Automation
+
+
 
 
